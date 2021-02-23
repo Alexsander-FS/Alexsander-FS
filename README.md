@@ -1,7 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alexsander-FS" width="380" />
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander-FS&layout=compact&theme=graywhite" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alexsander-FS" width="380" />
 
 * **Skills**
 
