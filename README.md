@@ -11,15 +11,10 @@
  
  * **PULS**
  
-    * GIT.
+    * Git.
     * Linux.
-    * Bootstrap .
-    * Jqury.
-
-* **Estudando**
-
-  * Vue.
-
+    * Banco de Dados ( MySQL ).
+ 
 ### Atividades
 ```
 🎵 - Ouvir Musicas.
