@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander-FS&layout=compact&theme=graywhite" />
 
-<!-----------------------------------------------------------------------------------------------------------------------------------!>
-
 * **Skills**
 
    * HTML5 && CSS3.
